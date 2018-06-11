@@ -1,0 +1,33 @@
+{
+  "name": "css-micro-reset",
+  "version": "1.0.0",
+  "description": "Minimal barebone CSS Reset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladocar/CSS-Micro-Reset.git"
+  },
+  "keywords": [
+    "css",
+    "css",
+    "reset",
+    "minimal",
+    "css",
+    "reset",
+    "css",
+    "mini",
+    "reset",
+    "css",
+    "micro",
+    "reset"
+  ],
+  "author": "Vladimir Carrer <vladocar@gmail.com> (http://www.vcarrer.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladocar/CSS-Micro-Reset/issues"
+  },
+  "homepage": "https://github.com/vladocar/CSS-Micro-Reset#readme"
+}
