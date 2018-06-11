@@ -25,8 +25,8 @@ h1 {
 
 h1 {
   margin: 0;
-	padding: 0;
-	border: 0;
+  padding: 0;
+  border: 0;
   line-height: 1;
   font-weight: normal;
 
