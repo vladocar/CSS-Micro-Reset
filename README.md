@@ -11,7 +11,7 @@ Browser Reset -> Your Reset ->  Setting all Resetted Elements -> Probably more s
 #### A typical `H1` tag mistake:
 
 ```css
-/* Chrome  Reset */
+/* "Chrome  Reset" - default Chrome CSS stylesheet */
 
 h1 {
     display: block;
