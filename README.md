@@ -6,7 +6,7 @@ Every Browser has it's own CSS Reset. Reseting it again means that later you nee
 
 Basically you have Browser Reset -> Your Reset ->  Setting all Reseted Elements -> probably another styling at the end.
 
-Let take typical H1 tag mistake:
+#### Let take typical H1 tag mistake:
 
 ```css
 /* Chrome  Reset */
@@ -64,11 +64,13 @@ I've did just that: **Micro CSS Reset**
 
 Feel free to add  or remove elements to Micro CSS Reset, don't just blindly use it. Example: if don't use tables remove all the table related tags in the Micro CSS Reset.
 
-*Like I said in the beginning: You may not need this or any other CSS reset. Before use understand what this reset does.*
+Like I said in the beginning: You may not need this or any other CSS reset.
+
+*Before use, understand what this reset does.*
 
 ## Download or Install
 
-You can simply download the library or use:
+You can copy-paste the CSS code, use direct download, or use npm:
 
 ```
 $ npm i css-micro-reset
