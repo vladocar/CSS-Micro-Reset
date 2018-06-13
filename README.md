@@ -1,12 +1,14 @@
 # CSS Micro Reset
 
-You probably don't need CSS Reset, at least not complete CSS Reset.
+You probably don't need CSS Reset, at least not the complete CSS Reset.
 
-Every Browser has it's own CSS Reset. Reseting it again means that later you need to set all reseted elements.
+Every Browser has it's own CSS Reset. Resetting it again means that later you need to set all resetted elements.
 
-Basically you have Browser Reset -> Your Reset ->  Setting all Reseted Elements -> probably another styling at the end.
+Basically you have:
 
-#### Let take typical H1 tag mistake:
+Browser Reset -> Your Reset ->  Setting all Resetted Elements -> Probably more styling after.
+
+## A typical `H1` tag mistake:
 
 ```css
 /* Chrome  Reset */
@@ -40,7 +42,7 @@ h1 {
   font-weight: normal;
 }
 
-/* And probably you will do one more H1 setting */
+/* And probably you will do one more further H1 setting */
 
 h1 {
 color: #111;
@@ -50,19 +52,20 @@ font-weight: normal;
 
 /* I will assume one or two more setting of H1 tag here :) */
 ```
-**We all did this mistake too many times.**
 
-Why not skip the reset and set just the elements you need for your project?
+## We've all made this mistake too many times.
 
-Also why reseting some elements if you are not using them in your project. Example: If you don't have forms in your project don't reset them.
+Why not skip the reset and just set the elements that you need for your project?
 
-Other thing: It's Ok some elements to be different in different browsers.
+Also why are you resetting some elements if you are not using them in your project. For example, if you don't have forms in your project, don't reset them.
 
-Why not start with bare bones reset and if needed add some elements?
+Another thing: It's Ok for some elements to be different between browsers.
 
-I've did just that: **Micro CSS Reset**
+Why not start with bare bones reset and only add some elements if needed?
 
-Feel free to add  or remove elements to Micro CSS Reset, don't just blindly use it. Example: if don't use tables remove all the table related tags in the Micro CSS Reset.
+I've done just that: **CSS Micro Reset**
+
+Feel free to add or remove elements to CSS Micro Reset, don't just blindly use it. For example, if don't use tables remove all the table related tags in the CSS Micro Reset.
 
 Like I said in the beginning: You may not need this or any other CSS reset.
 
@@ -70,7 +73,7 @@ Like I said in the beginning: You may not need this or any other CSS reset.
 
 ## Download or Install
 
-You can copy-paste the CSS code, use direct download, or use npm:
+You can copy-paste the CSS code, use the direct download, or use npm:
 
 ```
 $ npm i css-micro-reset
@@ -81,6 +84,6 @@ Or use the CDN link:
  <link rel="stylesheet" href="https://unpkg.com/css-micro-reset@1.0.0/micro-css-reset.css">
  ```
 
-### License
+## License
 
 This project is licensed under the MIT License
