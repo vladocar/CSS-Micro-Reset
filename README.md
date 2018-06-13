@@ -2,11 +2,11 @@
 
 You probably don't need CSS Reset, at least not the complete CSS Reset.
 
-Every Browser has it's own CSS Reset. Resetting it again means that later you need to set all resetted elements.
+Every Browser has it's own CSS Reset. Resetting it again means that later you need to set all reset elements.
 
 Basically you have:
 
-Browser Reset -> Your Reset ->  Setting all Resetted Elements -> Probably more styling after.
+Browser Reset -> Your Reset ->  Setting all Reset Elements -> Probably more styling after.
 
 #### A typical `H1` tag mistake:
 
