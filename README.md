@@ -8,7 +8,7 @@ Basically you have:
 
 Browser Reset -> Your Reset ->  Setting all Resetted Elements -> Probably more styling after.
 
-## A typical `H1` tag mistake:
+#### A typical `H1` tag mistake:
 
 ```css
 /* Chrome  Reset */
@@ -53,7 +53,7 @@ font-weight: normal;
 /* I will assume one or two more setting of H1 tag here :) */
 ```
 
-## We've all made this mistake too many times.
+#### We've all made this mistake too many times.
 
 Why not skip the reset and just set the elements that you need for your project?
 
