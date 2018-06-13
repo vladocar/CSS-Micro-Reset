@@ -65,7 +65,7 @@ Why not start with bare bones reset and only add some elements if needed?
 
 I've done just that: **CSS Micro Reset**
 
-Feel free to add or remove elements to CSS Micro Reset, don't just blindly use it. For example, if don't use tables remove all the table related tags in the CSS Micro Reset.
+Feel free to add or remove elements to CSS Micro Reset, don't just blindly use it. For example, if you don't use tables, remove all the table related tags in the CSS Micro Reset.
 
 Like I said in the beginning: You may not need this or any other CSS reset.
 
