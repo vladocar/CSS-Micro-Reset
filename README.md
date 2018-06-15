@@ -2,7 +2,7 @@
 
 You probably don't need CSS Reset, at least not the complete CSS Reset.
 
-Every Browser has it's own CSS Reset. Resetting it again means that later you need to set all reset elements.
+Every Browser has its own CSS Reset. Resetting it again means that later you need to set all reset elements.
 
 Basically you have:
 
