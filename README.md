@@ -75,6 +75,8 @@ Like I said in the beginning: You may not need this or any other CSS reset.
 
 You can copy-paste the CSS code, use the direct download, or use npm:
 
+*Note: I'm avere that using npm for project this small is ridiculous. But when I don't put npm there is always someone who complains why there is no: npm, yarn, bower and where is CDN link?*
+
 ```
 $ npm i css-micro-reset
 ```
