@@ -1,6 +1,6 @@
 {
   "name": "css-micro-reset",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimal barebone CSS Reset",
   "main": "index.js",
   "scripts": {
